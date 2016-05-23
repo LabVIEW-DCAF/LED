@@ -24,6 +24,7 @@
 		<Item Name="LED configuration.lvclass" Type="LVClass" URL="../module/configuration/LED configuration.lvclass"/>
 		<Item Name="LED editor node.lvclass" Type="LVClass" URL="../editor node/LED editor node.lvclass"/>
 		<Item Name="LED runtime.lvclass" Type="LVClass" URL="../module/execution/LED runtime.lvclass"/>
+		<Item Name="LED tests.lvlib" Type="Library" URL="../tests/LED tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>

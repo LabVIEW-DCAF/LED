@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2016-05-20 13:53:33" Creator="Matthew Pollock" Comments="" ID="666ba61c00d8262f77464bcd0c457037">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2016-05-23 16:43:32" Creator="Matthew Pollock" Comments="" ID="03faf308e7da307f9fe34a8770c4fb2f">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_DCAF_LED</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.1.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>export</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Matt Pollock</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>Replaced duty cycle input with blink count input, added blink counter logic</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -106,11 +106,8 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
-    <License_Agreement_Filepath>..\..\..\Documents\GitHub\LED\LICENSE</License_Agreement_Filepath>
+    <License_Agreement_Filepath>LICENSE</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
