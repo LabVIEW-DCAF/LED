@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2016-05-23 16:43:32" Creator="Matthew Pollock" Comments="" ID="03faf308e7da307f9fe34a8770c4fb2f">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2016-07-20 15:26:44" Creator="Matthew Pollock" Comments="" ID="d0fb4e4c5029354e6e639c3e5910ebeb">
   <Library_General_Settings>
     <Package_File_Name>NI_lib_DCAF_LED</Package_File_Name>
-    <Library_Version>1.1.0.5</Library_Version>
+    <Library_Version>1.1.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>export</Library_Output_Folder>
