@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2016-07-25 15:16:00" Creator="Matthew Pollock" Comments="" ID="69c9d25824a642530978a853ed426be6">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2016-07-26 10:25:19" Creator="Matthew Pollock" Comments="" ID="921028ea378e934cc8ffbb7eb4eb50e7">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_led</Package_File_Name>
     <Library_Version>1.1.0.7</Library_Version>
@@ -17,7 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.1.3.149</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_frmwk_dcaf_core &gt;=1.0.0.7</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
