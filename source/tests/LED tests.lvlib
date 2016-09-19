@@ -5,4 +5,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Process harness.vi" Type="VI" URL="../Process harness.vi"/>
+	<Item Name="user process.lvtest" Type="TestItem" URL="../../module/execution/user process.lvtest">
+		<Property Name="utf.test.bind" Type="Str">LED runtime.lvclass:user process.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">148242AD-30C3-AD0F-A4B7-0B30ADC57B4B</Property>
+	</Item>
 </Library>
