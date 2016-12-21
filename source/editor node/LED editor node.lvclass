@@ -48,6 +48,15 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 		</Item>
 	</Item>
+	<Item Name="EditOptions.vi" Type="VI" URL="../EditOptions.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*1!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!B#8*F&lt;7^W97*M:1!-1#%(&lt;7^W97*M:1!/1#%*:(6Q&lt;'FD982F!&amp;!!]1!!!!!!!!!#&amp;5Z*5U6@1U6'8UZP:'5O&lt;(:D&lt;'&amp;T=R./&lt;W2F476O&gt;5^Q&gt;'FP&lt;H-O9X2M!"Z!5!!$!!1!"1!'$'6E;81A&lt;X"U;7^O=Q!!$E!Q`````Q6$&lt;'&amp;T=Q!A1%!!!@````]!#"*T&gt;7*O&lt;W2F=S"N:7ZV)'ZB&lt;75!!"R!1!!"`````Q!)$H.V9GZP:'6T)'.M98.T!!!?1%!!!@````]!#"&amp;T&gt;7*O&lt;W2F=S"D982F:W^S?1"2!0%!!!!!!!!!!B6/36.&amp;8U.&amp;2F^/&lt;W2F,GRW9WRB=X-35X6C4G^E:5.M&gt;8.U:8)O9X2M!#"!5!!$!!E!#A!,$H.V9GZP:'6T)'.M98.T!!!W1(!!(A!!'2&gt;-251A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!44%6%)'6E;82P=C"O&lt;W2F)'^V&gt;!!%!!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!$:!=!!?!!!:&amp;UR&amp;2#"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!"*-251A:72J&gt;'^S)'ZP:'5A;7Y!!&amp;1!]!!-!!-!"Q!-!!U!$A!/!!Y!$A!0!!Y!$A!1!Q!!?!!!$1A!!!E!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!%1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
 	<Item Name="GetText.vi" Type="VI" URL="../GetText.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;4!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'%!Q`````Q^B:'2J&gt;'FP&lt;G&amp;M)(2F?(1!$E!Q`````Q2U:8BU!!!W1(!!(A!!'2&gt;-251A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!44%6%)'6E;82P=C"O&lt;W2F)'^V&gt;!!/1$$`````"7&gt;M?8"I!!1!!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!.E"Q!"Y!!"E84%6%)'6E;82P=C"O&lt;W2F,GRW9WRB=X-!%ER&amp;2#"F:'FU&lt;X)A&lt;G^E:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!(!!A!#!!)!!E!#!!)!!I$!!"Y!!!.#!!!#1!!!!E!!!#.#Q!!#1!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!,!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
