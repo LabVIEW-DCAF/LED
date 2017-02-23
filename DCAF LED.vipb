@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2016-07-26 10:25:19" Creator="Matthew Pollock" Comments="" ID="921028ea378e934cc8ffbb7eb4eb50e7">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2017-02-23 10:40:07" Creator="Matthew Pollock" Comments="" ID="987082e66b6cb5b3fdea8b031c4813d0">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_led</Package_File_Name>
-    <Library_Version>1.1.0.7</Library_Version>
+    <Library_Version>1.1.1.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>export</Library_Output_Folder>
@@ -34,7 +34,8 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>Changed destination directory to match framework</Release_Notes>
+      <Release_Notes>Fixed issue where LED hardware function was called on every iteration, which could cause high CPU usage if module not running at a decimated rate.
+-https://github.com/LabVIEW-DCAF/LED/issues/3</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
