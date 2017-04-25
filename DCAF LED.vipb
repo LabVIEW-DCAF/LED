@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2017-04-25 11:01:27" Creator="Matthew Pollock" Comments="" ID="913980a7073ffc5d54013a1213760b3f">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-05-20 13:50:46" Modified_Date="2017-04-25 11:20:24" Creator="Matthew Pollock" Comments="" ID="480552ea02af8bcc3f49047f68c40066">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_led</Package_File_Name>
-    <Library_Version>1.2.0.10</Library_Version>
+    <Library_Version>1.2.0.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>source</Library_Source_Folder>
     <Library_Output_Folder>export</Library_Output_Folder>
