@@ -3,9 +3,9 @@
 
 //Modify the below parameters to match the values for this particular repo
 
-def utfPath = "source\\LED.lvproj"
-def vipbPath = "DCAF LED.vipb"
+def utfPaths = ["source\\LED.lvproj"]
+def vipbPaths = ["DCAF LED.vipb"]
 def lvVersion = "14.0"
 
 //Leave the below line alone.  It pulls in the pipeline definition from the DCAF buildsystem repo so we don't duplicate code in every repo 
-dcafPipeline(utfPath,vipbPath,lvVersion)
+dcafPipeline(utfPaths,vipbPaths,lvVersion)
